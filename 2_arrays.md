@@ -1,5 +1,4 @@
-### Define array 
-
+### Array
 Array is denoted by `[N]T`
 - N: number of elements, or `_` to infer the size of the array.
 - T: type of those elements
